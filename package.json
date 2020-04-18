@@ -1,0 +1,17 @@
+{
+  "name": "node-webapp",
+  "version": "2.0.0",
+  "description": "AWS Layer for Node runtime",
+  "scripts": {},
+  "keywords": [],
+  "author": "Joona Ojapalo <joona.ojapalo@iki.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "axios": "^0.19.2",
+    "date-fns": "^2.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^7.18.1",
+    "uuid": "^7.0.2"
+  }
+}
